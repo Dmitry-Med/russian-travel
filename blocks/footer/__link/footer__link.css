@@ -6,6 +6,7 @@
   line-height: 18px;   
   color: #FFFFFF;
   text-decoration-line: none;
+  transition: 1.5s ease;
 }
 
 .footer__link:hover {

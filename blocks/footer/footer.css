@@ -1,8 +1,7 @@
 @import url(./__link/footer__link.css);
 @import url(./__copyright/footer__copyright.css);
 .footer {
-  max-width: 1184px;  
-  min-height: 18px;
+  max-width: 1184px;   
   margin: 0 auto 0;
   padding: 92px 48px 24px;
   display: flex;
@@ -17,9 +16,8 @@
 
 @media screen and (max-width: 720px) {
   .footer {  
-    max-width: 288px;  
-    min-height: 310px;  
+    max-width: 288px;     
     padding: 64px 16px 24px;
     display: block;   
-    }  
+  }  
 }

@@ -1,19 +1,20 @@
 @import url(./__title/lead__title.css);
 @import url(./__subtitle/lead__subtitle.css);
+@import url(./__img-container/lead__img-container.css);
 @import url(./__image/lead__image.css);
 @import url(./__caption/lead__caption.css);
 .lead {
-  margin: 0 0 114px;
+  margin: 0 0 92px;
 }
 
 @media screen and (max-width: 768px) {
   .lead {
-    margin: 0 0 110px;
+    margin: 0 0 88px;
   }
 }
 
 @media screen and (max-width: 720px) {
   .lead {
-    margin: 0 0 86px;
+    margin: 0 0 64px;
   }
 }  

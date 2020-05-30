@@ -5,8 +5,6 @@
 @import url(./__link/place__link.css);
 @import url(./__text-container/place__text-container.css);
 @import url(./__paragraph/place__paragraph.css);
-@import url(./__paragraph/_location/place__paragraph_location_kolsky.css);
-@import url(./__paragraph/_location/place__paragraph_location_altai.css);
 .place {
   display: grid;
   grid-template-columns: 460px 1fr;

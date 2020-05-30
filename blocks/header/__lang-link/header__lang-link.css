@@ -6,6 +6,7 @@
   color: #FFFFFF;  
   text-decoration-line: none;
   margin: 0;
+  transition: 1.5s ease;
 }
 
 .header__lang-link:hover {
