@@ -4,8 +4,7 @@
 @import url(./__list-item/intro__list-item.css);
 @import url(./__list-text/intro__list-text.css);
 .intro {
-  max-width: 984px;  
-  min-height: 428px;
+  max-width: 984px;   
   margin: 0 auto 92px;
 }
 
