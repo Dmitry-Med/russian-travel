@@ -1,5 +1,4 @@
 @import url(./__item/link-container__item.css);
-@import url(./_place/link-container_place_footer.css);
 .link-container {  
   list-style: none;
   margin: 0;

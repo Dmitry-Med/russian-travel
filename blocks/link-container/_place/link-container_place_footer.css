@@ -1,5 +1,5 @@
 @media screen and (max-width: 720px) {
-    .link-container.link-container_place_footer {
+    .link-container_place_footer {
       flex-direction: column;
       align-items: flex-start;
     }
